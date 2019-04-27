@@ -9,7 +9,7 @@ public class PrintText {
                 "„Czarna krowo, nie kręć rogiem,\n" +
                 "bo ja pieróg jem z twarogiem:\n" +
                 "gdy tak srogo rogiem kręcisz,\n" +
-                "gryźć pieroga nie mam chęci.”\n");
+                "gryźć pieroga nie mam chęci.\"\n");
         System.out.println("„Jedz bez trwogi swe pierogi,\n" +
                 "nie są groźne krowie rogi.\n" +
                 "Jestem bardzo dobra krowa\n" +
@@ -23,7 +23,7 @@ public class PrintText {
                 "Ja Ci również radość sprawię:\n" +
                 "Jaskry, które rosną w trawie,\n" +
                 "zręcznie ci pozrywam mordą\n" +
-                "czarną mordą w kropki bordo.”");
+                "czarną mordą w kropki bordo.\"");
 
     }
 }
